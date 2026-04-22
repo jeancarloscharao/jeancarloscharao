@@ -67,6 +67,8 @@ Sistema de vendas com controle de estoque e API REST.
 
 Gerenciador de credenciais com AES-256 e Argon2id.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CCNBR6XOWr0)
+
 👉 https://github.com/jeancarloscharao/vaultapp-showcase
 
 ---
