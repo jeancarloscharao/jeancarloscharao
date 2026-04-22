@@ -33,6 +33,8 @@ Sistema web completo para controle financeiro pessoal.
 
 Plataforma SaaS com SHA-256 para validação de integridade de arquivos.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/JYy-yIICk7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=JYy-yIICk7g)
+
 👉 https://github.com/jeancarloscharao/docintegrity-showcase
 
 ---
