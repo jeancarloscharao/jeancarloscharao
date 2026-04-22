@@ -39,6 +39,16 @@ Plataforma SaaS com SHA-256 para validação de integridade de arquivos.
 
 ---
 
+### 🔹 Vault App — Segurança e Criptografia
+
+Gerenciador de credenciais com AES-256 e Argon2id.
+
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CCNBR6XOWr0)
+
+👉 https://github.com/jeancarloscharao/vaultapp-showcase
+
+---
+
 ### 🔹 JC Chamados — Sistema de Tickets
 
 Gestão de chamados com SLA, aprovação e auditoria completa.
@@ -60,16 +70,6 @@ Sistema completo com cálculo de entrega e pagamento PIX.
 Sistema de vendas com controle de estoque e API REST.
 
 👉 https://github.com/jeancarloscharao/pdv-system-showcase
-
----
-
-### 🔹 Vault App — Segurança e Criptografia
-
-Gerenciador de credenciais com AES-256 e Argon2id.
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CCNBR6XOWr0)
-
-👉 https://github.com/jeancarloscharao/vaultapp-showcase
 
 ---
 
