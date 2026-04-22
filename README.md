@@ -11,7 +11,10 @@
 
 Sistema SaaS para organização de tarefas e comunicação entre cliente e equipe.
 
-👉 https://github.com/jeancarloscharao/kando-showcase
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/3Y8uZX73oqM/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Y8uZX73oqM)
+
+👉 Repositório: https://github.com/jeancarloscharao/kando-showcase
+
 
 ---
 
