@@ -18,6 +18,17 @@ Sistema SaaS para organização de tarefas e comunicação entre cliente e equip
 
 ---
 
+### 🔹 JCContas — Gestão Financeira Pessoal
+
+Sistema web completo para controle financeiro pessoal.
+
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/9DOQGQMiR-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=9DOQGQMiR-U)
+
+👉 Repositório: https://github.com/jeancarloscharao/jccontas-showcase
+
+
+---
+
 ### 🔹 DocIntegrity — Validação de Documentos
 
 Plataforma SaaS com SHA-256 para validação de integridade de arquivos.
