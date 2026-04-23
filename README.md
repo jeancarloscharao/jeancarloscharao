@@ -69,6 +69,16 @@ Gestão de chamados com SLA, aprovação e auditoria completa.
 
 ---
 
+### 🔹 PMOC Online — Gestão Técnica
+
+Sistema de manutenção com geração de PDF e conformidade legal.
+
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/dOXraknLqt4/maxresdefault.jpg)](https://www.youtube.com/watch?v=dOXraknLqt4)
+
+👉 https://github.com/jeancarloscharao/pmoc-online-showcase
+
+---
+
 ### 🔹 Delivery App — E-commerce de Delivery
 
 Sistema completo com cálculo de entrega e pagamento PIX.
@@ -82,14 +92,6 @@ Sistema completo com cálculo de entrega e pagamento PIX.
 Sistema de vendas com controle de estoque e API REST.
 
 👉 https://github.com/jeancarloscharao/pdv-system-showcase
-
----
-
-### 🔹 PMOC Online — Gestão Técnica
-
-Sistema de manutenção com geração de PDF e conformidade legal.
-
-👉 https://github.com/jeancarloscharao/pmoc-online-showcase
 
 ---
 
