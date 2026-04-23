@@ -63,6 +63,8 @@ Gerenciador de credenciais com AES-256 e Argon2id.
 
 Gestão de chamados com SLA, aprovação e auditoria completa.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/aN0EaSuRPVI/maxresdefault.jpg)](https://www.youtube.com/watch?v=aN0EaSuRPVI)
+
 👉 https://github.com/jeancarloscharao/jcchamados-showcase
 
 ---
