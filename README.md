@@ -18,6 +18,16 @@ Sistema SaaS para organização de tarefas e comunicação entre cliente e equip
 
 ---
 
+### 🔹 Kando Poker — Planning Poker
+
+Aplicação leve para estimativas ágeis em tempo real.
+
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/2lFfrBFvk-k/maxresdefault.jpg)](https://www.youtube.com/watch?v=2lFfrBFvk-k)
+
+👉 https://github.com/jeancarloscharao/kando-poker-showcase
+
+---
+
 ### 🔹 JCContas — Gestão Financeira Pessoal
 
 Sistema web completo para controle financeiro pessoal.
@@ -78,14 +88,6 @@ Sistema de vendas com controle de estoque e API REST.
 Sistema de manutenção com geração de PDF e conformidade legal.
 
 👉 https://github.com/jeancarloscharao/pmoc-online-showcase
-
----
-
-### 🔹 Kando Poker — Planning Poker
-
-Aplicação leve para estimativas ágeis em tempo real.
-
-👉 https://github.com/jeancarloscharao/kando-poker-showcase
 
 ---
 
