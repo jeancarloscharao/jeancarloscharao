@@ -83,6 +83,8 @@ Sistema de manutenção com geração de PDF e conformidade legal.
 
 Sistema completo com cálculo de entrega e pagamento PIX.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/FgSqcIkIA-8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FgSqcIkIA-8)
+
 👉 https://github.com/jeancarloscharao/delivery-app-showcase
 
 ---
