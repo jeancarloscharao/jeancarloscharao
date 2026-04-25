@@ -1,113 +1,102 @@
 # 👋 Jean Carlos Charão Sabino
 
-💻 Full Stack Developer | Laravel Specialist
-🚀 Construindo SaaS, APIs e sistemas escaláveis
+🚀 Especialista em Desenvolvimento de Software focado em construção de SaaS, APIs e sistemas escaláveis  
+💻 Especialista em Laravel | Arquitetura de sistemas | Soluções orientadas a negócio  
+
+---
+
+## 🧠 Sobre mim
+
+Atuo há mais de 10 anos desenvolvendo sistemas web e plataformas digitais. Aliando essa experiência prática de mercado, sigo aprofundando minha base acadêmica como estudante de Engenharia de Software.
+
+Minha especialidade é transformar problemas de negócio em soluções SaaS estruturadas, com foco em:
+
+- Escalabilidade
+- Performance
+- Organização de processos
+- Experiência do usuário
+
+Hoje meu trabalho vai além de código — envolve arquitetura, produto e eficiência operacional.
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🔹 Kando — Gestão de Demandas
+### 🔹 Kando — Gestão de Demandas (SaaS)
+Sistema criado para resolver o caos de tarefas espalhadas em WhatsApp e falta de visibilidade em projetos.
 
-Sistema SaaS para organização de tarefas e comunicação entre cliente e equipe.
+✔ Organização de tarefas com fluxo claro  
+✔ Comunicação centralizada  
+✔ Acompanhamento em tempo real e testes E2E para garantia de qualidade  
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/3Y8uZX73oqM/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Y8uZX73oqM)
-
-👉 Repositório: https://github.com/jeancarloscharao/kando-showcase
-
-
----
-
-### 🔹 Kando Poker — Planning Poker
-
-Aplicação leve para estimativas ágeis em tempo real.
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/2lFfrBFvk-k/maxresdefault.jpg)](https://www.youtube.com/watch?v=2lFfrBFvk-k)
-
-👉 https://github.com/jeancarloscharao/kando-poker-showcase
-
----
-
-### 🔹 JCContas — Gestão Financeira Pessoal
-
-Sistema web completo para controle financeiro pessoal.
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/9DOQGQMiR-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=9DOQGQMiR-U)
-
-👉 Repositório: https://github.com/jeancarloscharao/jccontas-showcase
-
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/3Y8uZX73oqM/maxresdefault.jpg)](https://youtu.be/3Y8uZX73oqM)
+🔗 **Repositório:** https://github.com/jeancarloscharao/kando-showcase  
 
 ---
 
 ### 🔹 DocIntegrity — Validação de Documentos
+Plataforma SaaS para validação de integridade de arquivos usando SHA-256.
 
-Plataforma SaaS com SHA-256 para validação de integridade de arquivos.
+✔ Verificação pública de documentos  
+✔ API para integração  
+✔ Geração de QR Code para validação  
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/JYy-yIICk7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=JYy-yIICk7g)
-
-👉 https://github.com/jeancarloscharao/docintegrity-showcase
-
----
-
-### 🔹 Vault App — Segurança e Criptografia
-
-Gerenciador de credenciais com AES-256 e Argon2id.
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CCNBR6XOWr0)
-
-👉 https://github.com/jeancarloscharao/vaultapp-showcase
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/JYy-yIICk7g/maxresdefault.jpg)](https://youtu.be/JYy-yIICk7g)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/docintegrity-showcase  
 
 ---
 
 ### 🔹 JC Chamados — Sistema de Tickets
+Sistema completo de gestão de chamados com SLA, aprovação e rastreabilidade.
 
-Gestão de chamados com SLA, aprovação e auditoria completa.
+✔ Fluxo completo de aprovação  
+✔ Controle de SLA  
+✔ Auditoria de ações  
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/aN0EaSuRPVI/maxresdefault.jpg)](https://www.youtube.com/watch?v=aN0EaSuRPVI)
-
-👉 https://github.com/jeancarloscharao/jcchamados-showcase
-
----
-
-### 🔹 PMOC Online — Gestão Técnica
-
-Sistema de manutenção com geração de PDF e conformidade legal.
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/dOXraknLqt4/maxresdefault.jpg)](https://www.youtube.com/watch?v=dOXraknLqt4)
-
-👉 https://github.com/jeancarloscharao/pmoc-online-showcase
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/aN0EaSuRPVI/maxresdefault.jpg)](https://youtu.be/aN0EaSuRPVI)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/jcchamados-showcase  
 
 ---
 
-### 🔹 Delivery App — E-commerce de Delivery
+### 🔹 Vault App — Segurança e Criptografia
+Gerenciador de credenciais com foco em segurança.
 
-Sistema completo com cálculo de entrega e pagamento PIX.
+✔ Criptografia AES-256  
+✔ Hash Argon2id  
+✔ Proteção de dados sensíveis  
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/FgSqcIkIA-8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FgSqcIkIA-8)
-
-👉 https://github.com/jeancarloscharao/delivery-app-showcase
-
----
-
-### 🔹 PDV System — Ponto de Venda
-
-Sistema de vendas com controle de estoque e API REST.
-
-👉 https://github.com/jeancarloscharao/pdv-system-showcase
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/CCNBR6XOWr0/maxresdefault.jpg)](https://youtu.be/CCNBR6XOWr0)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/vaultapp-showcase  
 
 ---
 
-## 🧠 Stack principal
+## 🧰 Stack & Tecnologias
 
-* Laravel / PHP
-* FilamentPHP
-* Vue.js
-* Docker
-* MySQL / Redis / RabbitMQ
+**Linguagens & Frameworks** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament_PHP-FACC15?style=for-the-badge&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infraestrutura & Bancos de Dados** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Qualidade & Inovação** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Integração_com_IA-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🌐 Contato
 
-🔗 https://jeancarlos.com.br
-🔗 https://www.linkedin.com/in/jeancarloscharaosabino/
+🔗 https://jeancarlos.com.br  
+💼 https://www.linkedin.com/in/jeancarloscharaosabino/  
+
+---
+
+## ⚡ Diferencial
+
+Não desenvolvo apenas sistemas.
+
+Desenvolvo soluções que organizam processos, reduzem caos operacional e ajudam empresas a crescer com mais eficiência.
