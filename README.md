@@ -22,6 +22,42 @@ Hoje meu trabalho vai além de código — envolve arquitetura, produto e efici�
 
 ## 🚀 Projetos em destaque
 
+### 🔹 DoseCerta — Controle de Medicamentos
+Sistema de controle de medicamentos, sinais vitais e acompanhamento por cuidadores.
+
+✔ Lembretes de doses e controle de estoque  
+✔ Pressão, glicemia e histórico clínico  
+✔ Cuidadores com permissões e auditoria  
+
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://raw.githubusercontent.com/jeancarloscharao/dosecerta-showcase/main/assets/demo-youtube.jpg)](https://youtu.be/HvPiZeZo77o)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/dosecerta-showcase  
+
+---
+
+### 🔹 Onday — Anúncios e Reservas de Imóveis
+Plataforma SaaS de anúncio e reserva de imóveis com calendário, pagamento e repasse financeiro.
+
+✔ Disponibilidade confiável com calendário  
+✔ Fluxo de reserva e pagamento (Mercado Pago)  
+✔ Painéis para cliente, proprietário e admin  
+
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/W6mzbgk_m6k/maxresdefault.jpg)](https://youtu.be/W6mzbgk_m6k)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/onday-showcase  
+
+---
+
+### 🔹 Interview English Trainer — Prática de Entrevistas
+Aplicação para desenvolvedores praticarem entrevistas técnicas em inglês com áudio e progresso.
+
+✔ Perguntas por categoria e nível  
+✔ Respostas modelo com áudio e tradução  
+✔ Gravação de respostas e acompanhamento de progresso  
+
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://img.youtube.com/vi/_btcfyn-IrA/maxresdefault.jpg)](https://youtu.be/_btcfyn-IrA)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/interview-trainer-showcase  
+
+---
+
 ### 🔹 Kando — Gestão de Demandas (SaaS)
 Sistema criado para resolver o caos de tarefas espalhadas em WhatsApp e falta de visibilidade em projetos.
 
