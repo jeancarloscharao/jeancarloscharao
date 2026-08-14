@@ -22,6 +22,18 @@ Hoje meu trabalho vai além de código — envolve arquitetura, produto e efici�
 
 ## 🚀 Projetos em destaque
 
+### 🔹 PromptDock — Prompts de IA
+Painel para criar, versionar e otimizar prompts de IA, com histórico, variáveis e geração assistida.
+
+✔ Biblioteca de prompts com versões e histórico  
+✔ Variáveis reutilizáveis, Builder e Gerador  
+✔ Otimização com IA e comparação lado a lado  
+
+**🎥 Prévia em Vídeo:** [![Assista à demonstração](https://raw.githubusercontent.com/jeancarloscharao/promptdock-showcase/main/assets/demo-youtube.jpg)](https://youtu.be/6WKQwS48OPM)  
+🔗 **Repositório:** https://github.com/jeancarloscharao/promptdock-showcase  
+
+---
+
 ### 🔹 DoseCerta — Controle de Medicamentos
 Sistema de controle de medicamentos, sinais vitais e acompanhamento por cuidadores.
 
